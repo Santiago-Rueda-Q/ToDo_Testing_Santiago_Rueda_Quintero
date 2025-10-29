@@ -1,0 +1,1 @@
+Documento de pruebas de caja negra con particiones de equivalencia y valores límite.
